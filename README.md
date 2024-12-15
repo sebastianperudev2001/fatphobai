@@ -16,3 +16,13 @@
 
 1. AI model to predict when I will achieve my ideal body fat
 2. Add users (social media stuff)
+
+# Architecture decisions
+
+1. Framework for visualization
+
+D3.js vs Chart.js
+
+D3 --> if I want something more customized
+ChartJS --> Simple graphics
+Recharts --> Quickly for react apps

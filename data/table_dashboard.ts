@@ -68,27 +68,27 @@ export const columns = [
     label: "BMI",
   },
   {
-    key: "bodyfat",
+    key: "body_fat",
     label: "BODY FAT (%)",
   },
   {
-    key: "muscleMass",
+    key: "muscle_mass",
     label: "MUSCLE MASS (%)",
   },
   {
-    key: "restingMetabolism",
+    key: "rm",
     label: "RESTING METABOLISM (kcal/day)",
   },
   {
-    key: "bodyAge",
+    key: "body_age",
     label: "BODY AGE",
   },
   {
-    key: "visceralFat",
+    key: "visceral_fat",
     label: "VISCERAL FAT",
   },
   {
-    key: "timestamp",
+    key: "created_at",
     label: "TIMESTAMP",
   },
 ];
